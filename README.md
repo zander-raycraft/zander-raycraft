@@ -8,9 +8,6 @@
 <p>Howdy, I am a college student looking to explore my passion for technology. I love developing problem solving software and working on exciting and innovative projects! My interests include robotics, software develoment, and machine learning</p>
 
 <p >🤝Connect with me</p>
-<div id="badges">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"\>
- </div>
 
 [![GitHub Fork](https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zander-raycraft/)
 
