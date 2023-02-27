@@ -5,7 +5,7 @@
 </div>
 
 
-<p>Howdy, I am a college student looking to explore my passion for technology. I love developing problem solving software and working on exciting and innovative projects! My interests include robotics, software develoment, and machine learning</p>
+<p>Howdy, I am a college student looking to explore my passion for technology. I love developing problem solving software and working on exciting and innovative projects! My interests include robotics, software develoment, and machine learning.</p>
 
 <p >🤝Connect with me</p>
 
@@ -17,7 +17,7 @@
 
 - ML application for analyzing real estate deals and predicting future profitability
 
-<h2>🌱 I’m currently learning</h2>
+<h2>🌱 I’m currently learning:</h2>
 
 - 📖React.js
 
