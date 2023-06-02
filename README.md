@@ -19,18 +19,21 @@
 
 <h2>🌱 I’m currently learning:</h2>
 
-- 📖React.js
-
-- 🌶️Flask
+- 🦀![GitHub Fork](https://img.shields.io/badge/Code-Rust-orange?logo=rust&logoColor=orange)
 
 <h2>⚙️Technical skills</h2>
 
 ![GitHub Fork](https://img.shields.io/badge/Code-Python-blue?logo=python&logoColor=blue)
 ![GitHub Fork](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript&logoColor=yellow)
+![GitHub Fork](https://img.shields.io/badge/Code-TypeScript-lightblue?logo=typescript&logoColor=lightblue)
 ![GitHub Fork](https://img.shields.io/badge/Code-Html5-orange?logo=html5&logoColor=orange)
-![GitHub Fork](https://img.shields.io/badge/Code-C%2B%2B-orange)
+![GitHub Fork](https://img.shields.io/badge/Code-C%2B%2B-yellow)
+
+![GitHub Fork](https://img.shields.io/badge/Tech-React-teal?logo=react&logoColor=lightblue)
+![GitHub Fork](https://img.shields.io/badge/Tech-Flask-red?logo=flask&logoColor=red)
 
 ![GitHub Fork](https://img.shields.io/badge/Style-CSS-blue?logo=CSS3&logoColor=blue)
+![GitHub Fork](https://img.shields.io/badge/Style-Chakra.UI-teal?logo=chakraui&logoColor=teal)
 ![GitHub Fork](https://img.shields.io/badge/Style-Bootstrap-purple?logo=bootstrap&logoColor=purple)
 
 ![GitHub Fork](https://img.shields.io/badge/Tools-git-orange?logo=Git&logoColor=orange)
