@@ -13,7 +13,7 @@
 
 <h2>🔭 Personal projects currently working on:</h2>
 
-- Application for parsing and summarizing academic papers utilizing ML
+- Webapp for tracking mental health and using ML to preovide a workout plan/give tips for improving mental health based on users input
 
 - ML application for analyzing real estate deals and predicting future profitability
 
