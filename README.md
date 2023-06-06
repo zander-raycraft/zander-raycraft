@@ -22,6 +22,9 @@
 - 🦀![GitHub Fork](https://img.shields.io/badge/Code-Rust-orange?logo=rust&logoColor=orange)
 
 - 💎![GitHub Fork](https://img.shields.io/badge/Framework-Prisma-2D3748?logo=prisma&logoColor=white)
+
+- 💨![GitHub Fork](https://img.shields.io/badge/Style-Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
+
 <h2>⚙️Technical skills</h2>
 
 ![GitHub Fork](https://img.shields.io/badge/Code-Html5-orange?logo=html5&logoColor=orange)
