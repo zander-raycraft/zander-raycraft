@@ -19,17 +19,16 @@
 
 <h2>🌱 I’m currently learning:</h2>
 
-- 🦀![GitHub Fork](https://img.shields.io/badge/Code-Rust-orange?logo=rust&logoColor=orange)
+- ![GitHub Fork](https://img.shields.io/badge/Code-Leo-121D33?logo=blockchaindotcom&logoColor=white)
 
-- 💎![GitHub Fork](https://img.shields.io/badge/Framework-Prisma-2D3748?logo=prisma&logoColor=white)
-
-- 💨![GitHub Fork](https://img.shields.io/badge/Style-Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
+- ![GitHub Fork](https://img.shields.io/badge/Style-Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
 
 <h2>⚙️Technical skills</h2>
 
 ![GitHub Fork](https://img.shields.io/badge/Code-Html5-orange?logo=html5&logoColor=orange)
 ![GitHub Fork](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript&logoColor=yellow)
 ![GitHub Fork](https://img.shields.io/badge/Code-TypeScript-lightblue?logo=typescript&logoColor=lightblue)
+![GitHub Fork](https://img.shields.io/badge/Code-Rust-orange?logo=rust&logoColor=orange)
 ![GitHub Fork](https://img.shields.io/badge/Code-Python-blue?logo=python&logoColor=blue)
 ![GitHub Fork](https://img.shields.io/badge/Code-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
 
@@ -37,6 +36,7 @@
 ![GitHub Fork](https://img.shields.io/badge/DataBase-FireBase-orange?logo=firebase&logoColor=orange)
 ![GitHub Fork](https://img.shields.io/badge/Server-Express.js-yellow?logo=express&logoColor=yellow)
 ![GitHub Fork](https://img.shields.io/badge/Framework-React.js-teal?logo=react&logoColor=lightblue)
+![GitHub Fork](https://img.shields.io/badge/Framework-Prisma-2D3748?logo=prisma&logoColor=white)
 
 ![GitHub Fork](https://img.shields.io/badge/Style-CSS-blue?logo=CSS3&logoColor=blue)
 ![GitHub Fork](https://img.shields.io/badge/Style-Chakra.UI-319795?logo=chakraui&logoColor=319795)
