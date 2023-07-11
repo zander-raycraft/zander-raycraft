@@ -34,7 +34,6 @@
 
 ![GitHub Fork](https://img.shields.io/badge/Framework-Flask-red?logo=flask&logoColor=red)
 ![GitHub Fork](https://img.shields.io/badge/DataBase-FireBase-orange?logo=firebase&logoColor=orange)
-![GitHub Fork](https://img.shields.io/badge/Server-Express.js-yellow?logo=express&logoColor=yellow)
 ![GitHub Fork](https://img.shields.io/badge/Framework-React.js-teal?logo=react&logoColor=lightblue)
 ![GitHub Fork](https://img.shields.io/badge/Framework-Prisma-2D3748?logo=prisma&logoColor=white)
 
