@@ -13,15 +13,11 @@
 
 <h2>🔭 Personal projects currently working on:</h2>
 
-- Webapp for tracking mental health and using ML to preovide a workout plan/give tips for improving mental health based on users input
-
-- ML application for analyzing real estate deals and predicting future profitability
+- Full-Stack app for tracking and managing personal finances, incorporating a tracking system and a prediction system of future expenses to help me budget for the future months demonstrating my proficency with Rust
 
 <h2>🌱 I’m currently learning:</h2>
 
-- ![GitHub Fork](https://img.shields.io/badge/Code-Leo-121D33?logo=blockchaindotcom&logoColor=white)
-
-- ![GitHub Fork](https://img.shields.io/badge/Style-Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
+![GitHub Fork](https://img.shields.io/badge/Code-Swift-F05138?logo=swift&logoColor=F05138)
 
 <h2>⚙️Technical skills</h2>
 
@@ -31,6 +27,7 @@
 ![GitHub Fork](https://img.shields.io/badge/Code-Rust-orange?logo=rust&logoColor=orange)
 ![GitHub Fork](https://img.shields.io/badge/Code-Python-blue?logo=python&logoColor=blue)
 ![GitHub Fork](https://img.shields.io/badge/Code-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
+![GitHub Fork](https://img.shields.io/badge/Code-Leo-121D33?logo=blockchaindotcom&logoColor=white)
 
 ![GitHub Fork](https://img.shields.io/badge/Framework-Flask-red?logo=flask&logoColor=red)
 ![GitHub Fork](https://img.shields.io/badge/DataBase-FireBase-orange?logo=firebase&logoColor=orange)
@@ -40,6 +37,7 @@
 ![GitHub Fork](https://img.shields.io/badge/Style-CSS-blue?logo=CSS3&logoColor=blue)
 ![GitHub Fork](https://img.shields.io/badge/Style-Chakra.UI-319795?logo=chakraui&logoColor=319795)
 ![GitHub Fork](https://img.shields.io/badge/Style-Bootstrap-7952B3?logo=bootstrap&logoColor=7952B3)
+![GitHub Fork](https://img.shields.io/badge/Style-Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
 
 ![GitHub Fork](https://img.shields.io/badge/Tools-git-orange?logo=Git&logoColor=orange)
 ![GitHub Fork](https://img.shields.io/badge/Tools-GitHub-black?logo=GitHub&logoCOlor=black)
