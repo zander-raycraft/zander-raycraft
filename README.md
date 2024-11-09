@@ -11,9 +11,9 @@
 
 [![GitHub Fork](https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zander-raycraft/)
 
-<h2>🔭 Personal projects currently working on:</h2>
+<h2>🔭 Project currently working on:</h2>
 
-- Full-Stack app for tracking and managing personal finances, incorporating a tracking system and a prediction system of future expenses to help me budget for the future months demonstrating my proficency with Rust
+- Building a ML model using a biological based approach to simulate attention and memory to reseach the process of developing a cogniticve bias; architected and GPU trained in C++ uitlizing NVIDIA's cuda.
 
 <h2>🌱 I’m currently learning:</h2>
 
