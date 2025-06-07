@@ -1,23 +1,22 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h1>Hi there I'm Zander👋</h1>
-  <h3>Computer Science and Cognitive studies student at Vanderbilt University</h3>
+  <h3>building stuff is cool.</h3>
 </div>
 
 
-<p>Howdy, I am a college student looking to explore my passion for technology. I love developing problem solving software and working on exciting and innovative projects! My interests include robotics, software develoment, and machine learning.</p>
+<p>i think that tech is cool, i just need a place to store my files and manage my projects, yk how it is</p>
 
-<p >🤝Connect with me</p>
+<p >🌴 here is my linkedin</p>
 
 [![GitHub Fork](https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zander-raycraft/)
 
-<h2>🔭 Project currently working on:</h2>
+<h2>🦦 what I am actually doing right now:</h2>
 
-- Building a ML model using a biological based approach to simulate attention and memory to reseach the process of developing a cogniticve bias; architected and GPU trained in C++ uitlizing NVIDIA's cuda.
-
+- Basically it is just a project that streams my voice to my ai agent and then runs a partitioning algorithm for separating the sound components and uses an lstm for compating the part frequencies against my own voice; this lets me psuedo isolate my voice so I can speak to the stream and not have to be directly next to it. Can also let me use product in noisy environment. Ultimately it is used to convert my voice into converstaion with an ai agent
 <h2>🌱 I’m currently learning:</h2>
 
-![GitHub Fork](https://img.shields.io/badge/Code-Swift-F05138?logo=swift&logoColor=F05138)
+![GitHub Fork](https://img.shields.io/badge/AWS-F05138)
 
 <h2>⚙️Technical skills</h2>
 
