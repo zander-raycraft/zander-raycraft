@@ -14,9 +14,6 @@
 <h2>🦦 what I am actually doing right now:</h2>
 
 - Basically it is just a project that streams my voice to my ai agent and then runs a partitioning algorithm for separating the sound components and uses an lstm for compating the part frequencies against my own voice; this lets me psuedo isolate my voice so I can speak to the stream and not have to be directly next to it. Can also let me use product in noisy environment. Ultimately it is used to convert my voice into converstaion with an ai agent
-<h2>🌱 I’m currently learning:</h2>
-
-![GitHub Fork](https://img.shields.io/badge/AWS-F05138)
 
 <h2>⚙️Technical skills</h2>
 
